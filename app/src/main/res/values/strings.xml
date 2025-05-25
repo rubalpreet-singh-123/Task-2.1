@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">assignment1</string>
+
+    <string-array name="units">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+        <item>Centimeter</item>
+        <item>Kilometer</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+        <item>Gram</item>
+        <item>Kilogram</item>
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
